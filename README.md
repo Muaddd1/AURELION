@@ -3,7 +3,7 @@
 A full-stack platform for a car dealership: a vehicle marketplace, a 3D configurator with server-side pricing, appointment booking that blocks double bookings, customer accounts and an admin command center. AURELION ("BEYOND THE DRIVE.") is a fictional brand, and all vehicles and records are demo data.
 
 **Live demo:** https://aurelion-muad1.vercel.app
-**Hire me to build yours:** https://www.fiverr.com/mouadseehli/build-your-car-dealership-website-with-a-3d-configurator-and-booking
+**Hire me to build yours:** https://muad-portfolio.vercel.app
 **Launch film (33 s):** https://x.com/MuadDevvlxn/status/2113792435398611152
 
 ![Hero](screenshots/01-hero.png)
